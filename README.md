@@ -3,10 +3,9 @@ Generating 3D plots of cylindrical nested helices using Python and Matplotlib
 
 <!DOCTYPE html>
 <html>
-  <title>Nested Helical Geometry in Matplotlib</title>
   <body style="background-color:#002240; color:white; padding:30px">
     <h1 style="color:#02FF02">Nested Helical Geometry in Matplotlib</h1>
-    <p>
+    <p align="justify">
       This page presents some examples of cool 3D surfaces one can plot using Python's inbuilt library Matplotlib. 
       There are many examples of Matplotlib on the web, but none quite like what is shown here.
       The complex geometry of nested cylindrical helices are created purely as structural art pieces 
