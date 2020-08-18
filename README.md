@@ -1,2 +1,2 @@
-<img align="left" width="1000px" src="photos/helix_plotter.png">
+<img align="left" width="10px" src="photos/helix_plotter.png">
 <hr>
