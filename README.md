@@ -1,2 +1,2 @@
-![Helix Plotter](helix_plotter.png "Helix Plotter")
+![Helix Plotter](photos/helix_plotter.png "Helix Plotter")
 <hr>
