@@ -57,12 +57,17 @@ from math import pi
 ```python
 helix = Helix()
 helix.cylindrical_nested(
-    rh1 = pi/2, rh2 = pi/3,
-     rc = pi/6,  dc = 1,
-      p = 2*pi,
-     d1 =    1,  d2 = 1,
-     t1 =    1,  t2 = 5,
-      m =    7,   n = 37
+    rh1 = pi/2, # outer helical radius
+    rh2 = pi/3, # inner helical radius
+     rc = pi/6, # cylidrical radius
+     dc =    1, # rotation of circle    
+      p = 2*pi, # pitch (hieght after 1 turn)
+     d1 =    1, # outer helical rotation (-1 or 1)
+     d2 =    1, # inner helical rotation (-1 or 1)
+     t1 =    1, # number of outer helical turns
+     t2 =    5, # number of innter helical turns
+      m =    7, # number of points per circle in each cylinder
+      n =   37  # number of circles used to contruct each cylinder
     ) 
 helix.surface()
 ```
@@ -70,16 +75,26 @@ helix.surface()
 
 ```python
 helix.cylindrical_sextuple(
-    rh1a =   2, rh1b =  2,
-    rh2a =   1, rh2b =  1,
-      rc = 0.7, p    = -9,
-    dc1a =   1, dc1b =  1,
-    dc2a =   1, dc2b =  1,
-     d1a =   1,  d1b =  1,
-     d2a =   1,  d2b = -1,
-     t1a =   1,  t1b =  1,
-     t2a = 2.5,  t2b =  3,
-       m =   3,  n   = 50
+    rh1a =   2, # outer helical radius of double helix 1
+    rh1b =   2, # outer helical radius of double helix 1
+    rh2a =   1, # inner helical radius of double helix 2
+    rh2b =   1, # inner helical radius of double helix 2
+      rc = 0.7, # cylindrical radius
+       p =  -9, # pitch
+    dc1a =   1, # rotation of circle in outer helix a in 1
+    dc1b =   1, # rotation of circle in outer helix b in 1
+    dc2a =   1, # rotation of circle in inner helix a in 2
+    dc2b =   1, # rotation of circle in inner helix b in 2
+     d1a =   1, # outer helical rotation of helix a in 1
+     d1b =   1, # outer helical rotation of helix b in 1
+     d2a =   1, # inner helical rotation of helix a in 2
+     d2b =  -1, # inner helical rotation of helix b in 2
+     t1a =   1, # number of turns in helix a in 1
+     t1b =   1, # number of turns in helix b in 1
+     t2a = 2.5, # number of turns in helix a in 2
+     t2b =   3, # number of turns in helix b in 2
+       m =   3, # number of points per circle in each cylinder
+       n =  50  # number of circles used to contruct each cylinder
     )
 helix.surface( color1 = 'pink', color2 = 'purple' )
 ```
