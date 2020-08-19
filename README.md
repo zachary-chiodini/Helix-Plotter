@@ -4,6 +4,7 @@
 <p align="left">
     <img width="244px" src="photos/dependencies.png">
 </p>
+<hr>
 
 <h1>Try It</h1>
 <hr>
