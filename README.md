@@ -10,7 +10,7 @@
 </p>
 <hr>
 
-[![Cylindrical Nested Helix Algorithm](photos/video.png)](https://www.youtube.com/watch?v=RbBxahDmacU)
+[![Cylindrical Nested Helix Algorithm](photos/video.PNG)](https://www.youtube.com/watch?v=RbBxahDmacU)
 
 <h1>Try It</h1>
 <hr>
