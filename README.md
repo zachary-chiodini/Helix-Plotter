@@ -31,7 +31,22 @@
 <p align="center">
     <img src="photos/slinky.png">
 </p>
-<hr>
+<h2 align="center">Sculpturesque</p>
+<p align="center">
+    <img src="photos/sculpturesque.png">
+</p>
+<h2 align="center">Lazy Helix</p>
+<p align="center">
+    <img src="photos/lazy.png">
+</p>
+<h2 align="center">Snakey Helix</p>
+<p align="center">
+    <img src="photos/snaky.png">
+</p>
+<h2 align="center">Fountain Helix</p>
+<p align="center">
+    <img src="photos/fountain.png">
+</p>
 <h1>Try It</h1>
 
 ```python
