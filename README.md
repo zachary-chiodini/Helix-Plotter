@@ -2,7 +2,14 @@
 <img align="left" width="750px" src="photos/helix_plotter.png">
 <hr>
 
-<br>
+
+
+
+
+
+
+
+
 <h1>Try It</h1>
 <hr>
 
