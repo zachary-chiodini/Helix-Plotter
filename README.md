@@ -47,8 +47,9 @@
     <img src="photos/fountain.png">
 </p>
 <h1>Try It</h1>
-To generate your own structures, use the script below and experiment with the parameters.
-<br>
+<p>
+    To generate your own structures, use the script below and experiment with the parameters.
+</p>
 ```python
 from helix_plotter import Helix
 from math import pi
