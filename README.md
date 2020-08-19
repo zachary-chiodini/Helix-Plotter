@@ -5,6 +5,11 @@
     <img width="244px" src="photos/dependencies.png">
 </p>
 <hr>
+<p aling="justify">
+    <i>This program generates cool 3D surface plots of nested cylindrical helices using Python's inbuilt library Matplotlib.</i>
+</p>
+<hr>
+
 
 <h1>Try It</h1>
 <hr>
