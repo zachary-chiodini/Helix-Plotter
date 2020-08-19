@@ -50,6 +50,7 @@
 <p>
     To generate your own structures, use the script below and experiment with the parameters.
 </p>
+
 ```python
 from helix_plotter import Helix
 from math import pi
