@@ -9,7 +9,6 @@
     <i>This program generates cool 3D surface plots of nested cylindrical helices using Python's inbuilt library Matplotlib.</i>
 </p>
 <hr>
-<video src="photos/helix_algorithm.mp4" controls preload></video>
 
 <h1>Try It</h1>
 <hr>
