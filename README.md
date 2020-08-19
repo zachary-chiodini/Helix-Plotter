@@ -19,7 +19,9 @@
     Therefore, a formula was not used. Instead, the helices are contructed algorithmically. The algorithm is demonstrated in the video below.
 </p>
 <hr>
+
 [![Cylindrical Nested Helix Algorithm](photos/video.PNG)](https://www.youtube.com/watch?v=RbBxahDmacU)
+
 <hr>
 <h1>Examples</h1>
 <p align="justify">
