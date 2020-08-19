@@ -27,6 +27,7 @@
 <p align="justify">
     Below are some example plots generated using the helix plotter. All of these structures are cylindrical sextuple helices (double double cylindrical nested helices).
 </p>
+<hr>
 <h2 align="center">Slinky Helix</p>
 <p align="center">
     <img src="photos/slinky.png">
@@ -41,7 +42,7 @@
 </p>
 <h2 align="center">Snakey Helix</p>
 <p align="center">
-    <img src="photos/snaky.png">
+    <img src="photos/snakey.png">
 </p>
 <h2 align="center">Fountain Helix</p>
 <p align="center">
