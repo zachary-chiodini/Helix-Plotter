@@ -12,7 +12,6 @@
         double cylindrical nested helices and cylindrical sextuple helices (double double cylindrical nested helices).
     </i>
 </p>
-<hr>
 <h1>Algorithm</h1>
 <p align="justify">
     The mathematical formula for a nested helix defines a curve. It does not define a cylindrical surface or the orientation of polygons used to construct the surface. 
@@ -27,7 +26,6 @@
 <p align="justify">
     Below are some example plots generated using the helix plotter. All of these structures are cylindrical sextuple helices (double double cylindrical nested helices).
 </p>
-<hr>
 <h2 align="center">Slinky Helix</p>
 <p align="center">
     <img src="photos/slinky.png">
