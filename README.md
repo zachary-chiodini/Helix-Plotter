@@ -1,22 +1,9 @@
-<img align="left" width="750px" src="photos/helix_plotter.png">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
-
-
-
+<p align="left">
+    <img width="750px" src="photos/helix_plotter.png">
+</p>
+<p align="left">
+    <img width="244px" src="photos/dependencies.png">
+</p>
 
 <h1>Try It</h1>
 <hr>
