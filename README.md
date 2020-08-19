@@ -10,7 +10,7 @@
 </p>
 <hr>
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RbBxahDmacU/0.jpg)](https://www.youtube.com/watch?v=RbBxahDmacU)
+[![Cylindrical Nested Helix Algorithm](https://img.youtube.com/vi/RbBxahDmacU/0.jpg)](https://www.youtube.com/watch?v=RbBxahDmacU)
 
 <h1>Try It</h1>
 <hr>
