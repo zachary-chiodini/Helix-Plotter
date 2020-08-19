@@ -14,19 +14,18 @@
 </p>
 <hr>
 <h1>Algorithm</h1>
-<hr>
 <p align="justify">
     The mathematical formula for a nested helix defines a curve. It does not define a cylindrical surface or the orientation of polygons used to construct the surface. 
     Therefore, a formula was not used. Instead, the helices are contructed algorithmically. The algorithm is demonstrated in the video below.
 </p>
-[![Cylindrical Nested Helix Algorithm](photos/video.PNG)](https://www.youtube.com/watch?v=RbBxahDmacU)
-<h1>Examples</h1>
 <hr>
+[![Cylindrical Nested Helix Algorithm](photos/video.PNG)](https://www.youtube.com/watch?v=RbBxahDmacU)
+<hr>
+<h1>Examples</h1>
 <p align="justify">
     Below are some example plots generated using the helix plotter. All of these structures are cylindrical sextuple helices (double double cylindrical nested helices).
 </p>
 <h1>Try It</h1>
-<hr>
 
 ```python
 from helix_plotter import Helix
